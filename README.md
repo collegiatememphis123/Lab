@@ -1,7 +1,6 @@
 # mobile-android-hello-world
 
-Android Hello World Application
-
+Yeet Yeet Ravioli Fam
 # Developer Workspace
 
 [![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=pszp1h06t076k093)
